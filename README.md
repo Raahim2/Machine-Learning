@@ -1,1 +1,1 @@
-# Fare-Price-Prediction
+# Machine-Learning-projects
