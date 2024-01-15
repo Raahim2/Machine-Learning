@@ -20,7 +20,7 @@ Welcome to the Deep Learning and Machine Learning Models Repository! This collec
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/YourUsername/YourRepo.git`
+1. Clone the repository: `git clone https://github.com/Raahim2/Machine-Learning.git`
 2. Explore the Machine Learning Algorithms or Deep Learning Models directory based on your interest.
 3. Refer to the documentation within each model's directory for usage instructions and examples.
 
